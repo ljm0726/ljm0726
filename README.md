@@ -1,8 +1,5 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20✨&animation=fadeIn)
-
-<!--   <H1> Welcome ✨ </h1> -->
+  <H1> Welcome ✨ </h1>
 
   <h4>현재 백엔드 개발자를 목표로 공부하고 있습니다 💻</h3>
   <h4>새로운 지식을 얻고 성장하는 것을 좋아해요 💪 </h3>
