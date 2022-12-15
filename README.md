@@ -1,4 +1,4 @@
-<div align="center">
+
   <H1> Welcome ✨ </h1>
 
   <h4>현재 백엔드 개발자를 목표로 공부하고 있습니다 💻</h4>
@@ -29,26 +29,23 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   
-  <div><b>[ Studying ✏]</b></div>
+  <div><b>[ Studying ]</b></div>
   
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   
-  
   <div><b>[ + ]</b></div>
-  
-  
-  
+
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-
+  
+  
+  <h3> stats 📊 </h3>
 
   ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&theme=transparent&disable_animations=true)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0726&layout=compact)](https://github.com/ljm0726/github-readme-stats)　　[![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksk678)](https://solved.ac/dksk678)
-
-</div>
 <!--
 **ljm0726/ljm0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
