@@ -1,8 +1,7 @@
 <div align="center">
   <H1> Welcome ✨ </h1>
 
-  <h4>현재 백엔드 개발자를 목표로 공부하고 있습니다 💻</h3>
-  <h4>새로운 지식을 얻고 성장하는 것을 좋아해요 💪 </h3>
+  <h4>현재 백엔드 개발자를 목표로 공부하고 있습니다 💻</h4>
   
   <h3> stack 🛠 </h3>
   <div><b>[Languages]</b></div>
@@ -11,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   
-  <div><b>[BackEnd]</b></div>
+  <div><b>[BackEnd + DB]</b></div>
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
