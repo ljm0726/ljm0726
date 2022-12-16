@@ -3,7 +3,8 @@
 
   <h4>현재 백엔드 개발자를 목표로 공부하고 있습니다 💻</h4>
   
-  <h3> stack 🛠 </h3>
+  <br/>
+  <h2> stack 🛠 </h2>
   <div><b>[Languages]</b></div>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -38,8 +39,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
+  <br/>
   
-  <h3> stats 📊 </h3>
+  <h2> stats 📊 </h2>
 
   ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&theme=transparent&disable_animations=true)
 
