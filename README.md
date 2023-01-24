@@ -34,7 +34,7 @@
   <div><b>[ Studying ]</b></div>
   
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AWS-232F3F?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   
   <div><b>[ + ]</b></div>
 
