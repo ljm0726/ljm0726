@@ -32,7 +32,8 @@
   
   <div><b>[ Studying ]</b></div>
   
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MSA-0078D4?style=flat-square&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3F?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   
   <div><b>[ + ]</b></div>
@@ -44,11 +45,12 @@
   
   <h2> stats 📊 </h2>
 
-  ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&theme=transparent&disable_animations=true)
+  ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&hide=issues&theme=transparent&disable_animations=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0726&layout=compact)](https://github.com/ljm0726/github-readme-stats)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0726&layout=compact)](https://github.com/ljm0726/github-readme-stats)　　[![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksk678)](https://solved.ac/dksk678)
+  <h4>Baekjoon Online Judge<h4>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksk678)](https://solved.ac/dksk678)  
 <!--
 **ljm0726/ljm0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
