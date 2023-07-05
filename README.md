@@ -46,9 +46,10 @@
   
   <h2> stats 📊 </h2>
   
-  ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&hide=issues&show_icons=true&theme=transparent&disable_animations=true)
+  ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&hide=issues&show_icons=true&theme=transparent&disable_animations=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0726&layout=compact)](https://github.com/ljm0726/github-readme-stats)
   
-  ![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&theme=transparent&disable_animations=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0726&layout=compact)](https://github.com/ljm0726/github-readme-stats)
+<!-- totalIssues 있는 경우
+![ljm0726's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0726&show_icons=true&theme=transparent&disable_animations=true)  -->
 
 
   <h4>Baekjoon Online Judge<h4>
