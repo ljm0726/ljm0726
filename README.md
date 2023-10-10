@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
   
   <div><b>[ Studying ]</b></div>
-  
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MSA-0078D4?style=flat-square&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
   
   <div><b>[ + ]</b></div>
