@@ -12,7 +12,7 @@
   <div><b>[Languages]</b></div>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   
   <div><b>[Skill]</b></div>
@@ -40,6 +40,7 @@
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  -->
   
   <br/>
   
